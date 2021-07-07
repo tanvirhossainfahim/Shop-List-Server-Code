@@ -1,6 +1,6 @@
 # full-stack-server
 
-Live website link: coming soon.
+Live website link:
 
 ## Back-End-code Functionality
 
